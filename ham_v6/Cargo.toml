@@ -1,0 +1,9 @@
+[package]
+name = "amateur_radio_ipv6"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bytes = "1.7.1"
+rustix = "0.38.34"
+rustls-pemfile = "2.1.3"
